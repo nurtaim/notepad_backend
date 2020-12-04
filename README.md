@@ -5,7 +5,7 @@
 
 ![notepad screenshot](./public/notepad.png "NOTEPAD")
 
-[Link to repository for the frontend](https://github.com/ajsultanov/notepad-frontend)
+[Link to repository for the frontend](https://github.com/nurtaim/notepad_frontend.git)
 
 > TK demo video/link
 
